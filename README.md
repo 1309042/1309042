@@ -1,5 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:eedddd,100:fdf7f7&height=120&text=안냐세요현서네집임다&animation=twinkling&fontColor=d3c5c5&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:eedddd,100:fdf7f7&height=120&text=안냐세요&animation=twinkling&fontColor=d3c5c5&fontSize=40" />
+    ![434792456_1970612790002864_6655870066350017339_n](https://github.com/1309042/1309042/assets/117890805/8b694c77-0f58-493a-b7bd-b698f5041ec3)
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
