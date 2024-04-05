@@ -35,6 +35,6 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Status </h2> <div align= "center"> <img src="https://github-readme-status.vercel.app/api?username=1309042&count_private=true&bg_color=180,00000000,&title_color=625555&text_color=625555"
-         /> <img src="https://github-readme-status.vercel.app/api/top-langs/?username=1309042&count_private=true&layout=compact&bg_color=180,00000000,&title_color=625555&text_color=625555" /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Status </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=1309042&count_private=true&bg_color=180,00000000,&title_color=625555&text_color=625555"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1309042&count_private=true&layout=compact&bg_color=180,00000000,&title_color=625555&text_color=625555" /> </div> 
     </div>
