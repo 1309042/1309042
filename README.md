@@ -27,6 +27,7 @@
           <br/>
         -->
          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+         <p>오로지 자바만 상대한다</p>
          <br/></div>
     </div>
     <div style="text-align: left;">
