@@ -27,7 +27,11 @@
           <br/>
         -->
          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-         <p>오로지 자바만 상대한다</p>
+         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+         <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+         <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+         <p>냠냠</p>
          <br/></div>
     </div>
     <div style="text-align: left;">
